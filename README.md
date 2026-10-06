@@ -1,6 +1,6 @@
-# LibreOffice Nord Red Dark Nord Theme
+# LibreOffice Nord Red Dark Theme
 
-## ScreenShot
+## Screenhhot
 ![Screenshot](Screenshot.png)
 
 
